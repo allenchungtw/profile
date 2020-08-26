@@ -1,0 +1,88 @@
+
+body {
+    background: #F7F9FC;
+    color: #575F7D;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif
+  font-size: 32px;
+  font-weight: lighter;
+}
+
+#introduction p {
+    margin-bottom: 40px;
+}
+
+.btn-blue {
+    background-color: #D2B48C;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+.card-white {
+    background-color: white;
+    padding: 40px;
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+i {
+  padding: 10px;
+}
+
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.shadowed{
+  box-shadow: 3px 3px 1px grey;
+}
+
+div {
+    display: block;
+}
+
+/*ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}*/
+
+a {
+    text-decoration: none;
+    color: #6B72E1;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+/*.list-inline i {
+    font-size: 50px;
+    color: rgb(230, 230, 230);
+}*/
+
